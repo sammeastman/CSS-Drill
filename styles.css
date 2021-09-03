@@ -1,0 +1,57 @@
+body {
+    font-family: Hind;
+    background: rgb(216, 214, 214)
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: purple;
+}
+
+.box {
+    margin: 40px;
+    padding: 25px;
+    border-style: solid;
+    border-color: purple;
+    border-radius: 25px;
+    width: 30em;
+    display: block;
+}
+
+div {
+    background-color: salmon;
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: sandybrown;
+
+}
+
+h1 {
+    color:seagreen;
+}
+
+.original {
+    color:steelblue;
+}
+
+.additional {
+    color:teal;
+}
+
+#one {
+    color:thistle;
+}
